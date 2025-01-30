@@ -10,12 +10,12 @@
   - CAS operations: 👂 heard
   - epoll: 👂 heard
   - kqueue: 👂 heard
-  - Completion ports:
-  - Event ports:
+  - Completion ports
+  - Event ports
   - libuv: 🎓 known
   - Race conditions: 🙋 explained
   - Dead locks: 👂 heard
-  - Live locks:
+  - Live locks
   - Concurrent programming: 🎓 known
   - Parallel programming: 🎓 known
   - Actor Model: 👂 heard
@@ -27,8 +27,8 @@
   - Thenable: 🙋 explained
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
-  - Future:
-  - Deferred:
+  - Future
+  - Deferred
   - Sync generator: 🖐️ used
   - Async Generator: 🖐️ used
   - Async Iterator: 🖐️ used
@@ -57,7 +57,7 @@
   - Async Collector: 🎓 known
   - Semaphore: 🎓 known
   - Mutex: 🖐️ used
-  - Spin Lock:
+  - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🙋 explained
   - `setImmediate`: 🙋 explained
@@ -79,11 +79,11 @@
 - Techniques
   - Async.js library: 👂 heard
   - RxJS library: 👂 heard
-  - Promise.all: k
-  - Promise.allSettled: k
-  - Promise.race: k
-  - Promise.any: k
-  - Web Locks API: 
-  - IPC:
-  - Channel API:
-  - Revealing constructor: 
+  - Promise.all: 🎓 known
+  - Promise.allSettled: 🎓 known
+  - Promise.race: 🎓 known
+  - Promise.any: 🎓 known
+  - Web Locks API
+  - IPC
+  - Channel API
+  - Revealing constructor

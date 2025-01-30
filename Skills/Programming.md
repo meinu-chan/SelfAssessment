@@ -171,69 +171,69 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers u
-  - Hard code k
-  - Soft code k
-  - Cryptic code k
-  - Improbability factor k
+  - Magic numbers: 🖐️ used
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
+  - Cryptic code: 🎓 known
+  - Improbability factor: 🎓 known
   - Accidental complexity
   - Action at a distance
   - Spaghetti
-  - Silver bullet k
+  - Silver bullet: 🎓 known
   - Not invented here
-  - Dead code k
-  - Unreachable code k
-  - Duplicate code k
-  - Premature optimization k
-  - Micro-optimization h
-  - Nested loops k
-  - Long method/function/procedure u
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
+  - Premature optimization: 🎓 known
+  - Micro-optimization: 👂 heard
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🖐️ used
   - Long inheritance
-  - Large class/file k
-  - Too many parameters k
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case k
-  - Temporary field k
+  - Use switch/case: 🎓 known
+  - Temporary field: 🎓 known
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments k
+  - Use fields instead of arguments: 🎓 known
   - Data clump
-  - Feature envy h
-  - Monkey patch h
-  - Yo-yo problem h
+  - Feature envy: 👂 heard
+  - Monkey patch: 👂 heard
+  - Yo-yo problem: 👂 heard
 - Runtimes and virtual machines
   - Bytecode
-  - V8 k
+  - V8: 🎓 known
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers k
-  - Kernel k
+  - Drivers: 🎓 known
+  - Kernel: 🎓 known
   - Ring
-  - Virtual memory k
-  - File system k
-  - Linux k
-  - Unix k
+  - Virtual memory: 🎓 known
+  - File system: 🎓 known
+  - Linux: 🎓 known
+  - Unix: 🎓 known
   - BSD
-  - MacOS u
-  - Windows k
+  - MacOS: 🖐️ used
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII k
-  - Escape sequence k
-  - RFC k
+  - ASCII: 🎓 known
+  - Escape sequence: 🎓 known
+  - RFC: 🎓 known
   - IETF
   - IANA
   - IEEE
-  - Base64 k
+  - Base64: 🎓 known
   - ECMA
   - ICANN
-  - ISO k
+  - ISO: 🎓 known
   - MIME
   - OWASP
-  - UTF-8 k
+  - UTF-8: 🎓 known
   - W3C
   - ODMG

@@ -4,12 +4,12 @@
   - Procedural programming: 🖐️ used
   - Imperative programming: 🖐️ used
   - Structured programming: 👂 heard
-  - Non-structured programming:
+  - Non-structured programming
   - Functional programming: 🖐️ used
-  - Prototype-based programming: 
+  - Prototype-based programming
   - Object-oriented programming: 🖐️ used
-  - Object-based programming: 
-  - Generic programming: 
+  - Object-based programming
+  - Generic programming
   - Concurrent computing: 🖐️ used
   - Asynchronous programming: 🖐️ used
   - Parallel programming: 🎓 known
@@ -19,12 +19,12 @@
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 👂 heard
   - Metaprogramming: 👂 heard
-  - Actor model: 
-  - Lambda calculus: 
+  - Actor model
+  - Lambda calculus
   - Black box: 🙋 explained
   - Information hiding: 🎓 known
   - Aspect-oriented programming: 👂 heard
-  - Anemic domain model:
+  - Anemic domain model
   - Class composition: 🎓 known
 - OOP basics
   - Constructor: 🙋 explained
@@ -42,21 +42,21 @@
   - Abstract class: 🙋 explained
   - Interface: 🙋 explained
   - Encapsulation: 🙋 explained
-  - Hidden class:
-  - Object form: 
+  - Hidden class
+  - Object form
   - Instance: 🎓 known
-  - Introspection: 
-  - Reflection:
+  - Introspection
+  - Reflection
   - The diamond problem: 👂 heard
 - GRASP
-  - Information expert:
+  - Information expert
   - Creator: 🎓 known
   - Controller: 🖐️ used
   - Indirection: 🎓 known
   - Low coupling: 🖐️ used
   - High cohesion: 🎓 known
-  - Protected variations: 
-  - Pure fabrication:
+  - Protected variations
+  - Pure fabrication
 - SOLID
   - Single-responsibility principle (SRP): 🙋 explained
   - Open–closed principle (OCP): 🙋 explained

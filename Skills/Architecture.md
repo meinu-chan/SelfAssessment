@@ -20,14 +20,14 @@
   - Transport-agnostic: 🙋 explained
   - Framework-agnostic: 🙋 explained
   - Code coverage: 🖐️ used
-  - Cohesion: k
-  - Coupling: k
-  - Cyclomatic complexity:
-  - Reliability: k
-  - Quality: k
-  - Availability: k
-  - Flexibility: k
-  - Law of Demeter (LoD): k
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 🎓 known
 - Application architecture
   - Isolation between layer: 🙋 explained
   - Domain-specific language (DSL): 🙋 explained
@@ -43,28 +43,28 @@
   - Pub/sub: 🎓 known
   - Message brocker: 🖐️ used
   - Agent: 👂 heard
-  - Service locator:
+  - Service locator
   - Message Queue (MQ): 🖐️ used
   - CQRS: 👂 heard
   - Event sourcing: 👂 heard
   - E-R data modeling: 👂 heard
   - Entity-relationship diagram: 👂 heard
-  - IDEF1X:
+  - IDEF1X
   - UML: 👂 heard
-  - Work breakdown structure:
-  - Budget estimation: k
+  - Work breakdown structure
+  - Budget estimation: 🎓 known
   - Distributed systems: 👂 heard
   - High-intensive computing: 👂 heard
   - Load balancing: 👂 heard
   - Gateways: 👂 heard
   - On-premises: 👂 heard
-  - IaaS: 
-  - PaaS: 
-  - SaaS: 
-  - FaaS clouds:
+  - IaaS
+  - PaaS
+  - SaaS
+  - FaaS clouds
   - Serverless: 👂 heard
-  - Vendor lock-in: 
-  - Bus factor: 
+  - Vendor lock-in
+  - Bus factor
 - Solution architecture
   - A software requirements specification (SRS): 👂 heard
   - Solution visions: 👂 heard
@@ -85,21 +85,21 @@
   - CAP theorem: 👂 heard
   - Single source of truth (SSOT): 👂 heard
 - Enterprise architecture
-  - Understanding business needs: k
+  - Understanding business needs: 🎓 known
   - Enterprise strategy: 👂 heard
   - Integration with subsystems: 👂 heard
   - Enterprise vision: 👂 heard
   - Enterprise capabilities: 👂 heard
-  - Project scope: k
-  - Enterprise service bus:
-  - Service-oriented architecture:
+  - Project scope: 🎓 known
+  - Enterprise service bus
+  - Service-oriented architecture
   - Microservices: 👂 heard
-  - Process choreography: 
-  - Service orchestration:
+  - Process choreography
+  - Service orchestration
   - Data warehouse: 👂 heard
-  - Business Intelligence: 
-  - OLAP: 
-  - OLTP: 
-  - Conways Law: 
+  - Business Intelligence
+  - OLAP
+  - OLTP
+  - Conways Law
   - Quality assurance: 🎓 known
   - Engineering Hygiene: 🎓 known

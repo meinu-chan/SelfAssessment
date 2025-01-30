@@ -7,9 +7,9 @@
   - Event loop phases: 🙋 explained
   - Event loop microtasks and macrotasks: 🎓 known
   - Garbage collection: 🎓 known
-  - Node.js LTS schedule k
-  - I/O-bound, CPU-bound, memory-bound tasks:
-  - Interactive applications (close to real-time):
+  - Node.js LTS schedule: 🎓 known
+  - I/O-bound, CPU-bound, memory-bound tasks
+  - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules: 🙋 explained
   - ECMAScript modules: 🙋 explained
@@ -19,7 +19,7 @@
   - Contexts and scripts module `node:vm`: 🎓 known
   - Dependencies: `npm`, `node_modules`: 🎓 known
   - Files `package.json`, `package-lock.json`: 🎓 known
-  - Module-based permissions model:
+  - Module-based permissions model
   - Isolation with modularity: 👂 heard
   - Dependency injection: 🖐️ used
   - DI containers: 🖐️ used
@@ -28,7 +28,7 @@
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
-  - Process-based permissions:
+  - Process-based permissions
   - Graceful shutdown: 🖐️ used
   - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 🖐️ used
@@ -47,7 +47,7 @@
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
   - Deprecated domain API: 👂 heard
-  - Node.js single executable: 
+  - Node.js single executable
   - SharedArrayBuffer: 🖐️ used
   - Module `node:worker_threads`: 🎓 known
   - Module `node:child_process`: 🎓 known
@@ -56,13 +56,13 @@
   - Generating crypto random UUID: 🖐️ used
   - Module `node:url` vs `new URL`: 🖐️ used
   - Module `node:assert`: 🖐️ used
-  - Internationalization:
+  - Internationalization
   - Blob, File, Buffer, module `node:buffer`: 🖐️ used
   - Module `node:zlib`: 🎓 known
 - Network
   - Endpoint throttling: 🖐️ used
-  - ALPN:
-  - SNI callback:
+  - ALPN
+  - SNI callback
   - SSL certificates: 🖐️ used
   - Protocol agnostic approach: 🖐️ used
   - Fetch API: 🖐️ used
@@ -80,14 +80,14 @@
   - Routing: 🖐️ used
   - DoS: 👂 heard
   - DDoS: 👂 heard
-  - XSS: h
+  - XSS: 👂 heard
   - Path traversal: 🎓 known
   - CSRF: 🎓 known
   - DNS: 🎓 known
   - SQL injection: 🎓 known
-  - noDelay: 
+  - noDelay
   - keep-alive: 🖐️ used
-  - IP sticky sessions: 
+  - IP sticky sessions
 - Technique and tools
   - Native test runner: 🖐️ used
   - Logging: 🖐️ used
@@ -126,18 +126,18 @@
   - Data race: 👂 heard
 - Integrations and bindings
   - Native addons: 👂 heard
-  - `C` and `C++` addons:
-  - `Rust` addons:
-  - `Zig` addons:
-  - NAN (Native Abstractions for Node.js):
-  - Node-API (formerly N-API):
-  - NAPI `C` and `C++`: 
-  - NAPI `Rust`: 
-  - NAPI `Zig`: 
-  - Webassembly `WAT`:
-  - Webassembly `C` and `C++`:
-  - Webassembly `Rust`: 
-  - Webassembly `Zig`:
-  - Webassembly `AssemblyScript`:
-  - Shared memory: k
-  - V8 binary serialization:
+  - `C` and `C++` addons
+  - `Rust` addons
+  - `Zig` addons
+  - NAN (Native Abstractions for Node.js)
+  - Node-API (formerly N-API)
+  - NAPI `C` and `C++`
+  - NAPI `Rust`
+  - NAPI `Zig`
+  - Webassembly `WAT`
+  - Webassembly `C` and `C++`
+  - Webassembly `Rust`
+  - Webassembly `Zig`
+  - Webassembly `AssemblyScript`
+  - Shared memory: 🎓 known
+  - V8 binary serialization

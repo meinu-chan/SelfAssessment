@@ -76,7 +76,7 @@
   - `switch`: 🙋 explained
   - `class`: 🙋 explained
   - `extends`: 🙋 explained
-  - `with`:
+  - `with`
   - `new`: 🙋 explained
 - Functions
   - Arrow function: 🙋 explained
@@ -96,7 +96,7 @@
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
   - Typed arrays: 🎓 known
-  - Mixins: k
+  - Mixins: 🎓 known
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 🖐️ used
@@ -107,9 +107,9 @@
   - `Error`: 🖐️ used
   - `Atomics`: 🎓 known
   - `JSON`: 🖐️ used
-  - `WeakRef`:
-  - `FinalizationRegistry`:
-  - `Intl`: 
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
   - Timers: 🖐️ used
@@ -119,4 +119,4 @@
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
-  - TC39:
+  - TC39

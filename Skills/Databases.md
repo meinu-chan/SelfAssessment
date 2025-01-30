@@ -9,21 +9,21 @@
   - Database scalability: 👂 heard
   - Relational databases: 🖐️ used
   - Key-value store: 🎓 known
-  - Tuple store: u
-  - Graph databases:
+  - Tuple store: 🖐️ used
+  - Graph databases
   - Object databases: 🖐️ used
   - Column databases: 🖐️ used
-  - Navigational databases: 
-  - Hierarchical databases: 
+  - Navigational databases
+  - Hierarchical databases
   - In-memory databases: 🖐️ used
   - Inverted index: 👂 heard
   - Data control language (DCL): 🎓 known
   - Data definition language (DDL): 🖐️ used
   - Data manipulation language (DML): 🖐️ used
-  - Data query language (DQL): u
+  - Data query language (DQL): 🖐️ used
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
-  - Normal forms:
+  - Normal forms
   - Indexing: 🖐️ used
   - Primary keys: 🖐️ used
   - Foreign keys: 🖐️ used
@@ -34,7 +34,7 @@
   - SQL functions: 🖐️ used
   - Materialized views: 👂 heard
   - Replications: 👂 heard
-  - Virtualization:
+  - Virtualization
 - SQL
   - `SELECT`: 🙋 explained
   - `INSERT`: 🙋 explained
